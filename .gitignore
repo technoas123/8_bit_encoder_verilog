@@ -1,0 +1,11 @@
+# Vivado generated workspace configurations
+dvb_rcs2_turbo_encoder.cache/
+dvb_rcs2_turbo_encoder.hw/
+dvb_rcs2_turbo_encoder.sim/
+dvb_rcs2_turbo_encoder.ip_user_files/
+
+# General Vivado temporary compilation output logs
+*.log
+*.jou
+*.str
+.Xil/
